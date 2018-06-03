@@ -34,6 +34,6 @@ Image Credit: Manish Chablani
 
 Additional Resources:
 
-[Wikipedia: Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-[Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution)
-[GAN: A Beginner’s Guide to Generative Adversarial Networks](https://deeplearning4j.org/generative-adversarial-network)
+1.[Wikipedia: Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+2. [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution)
+3. [GAN: A Beginner’s Guide to Generative Adversarial Networks](https://deeplearning4j.org/generative-adversarial-network)
