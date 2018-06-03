@@ -33,6 +33,7 @@ Image Credit: Manish Chablani
 ---
 
 Additional Resources: 
+
 [Wikipedia: Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network) 
 
 [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution) 
